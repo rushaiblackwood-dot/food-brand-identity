@@ -6,4 +6,4 @@ Independent food brand identity project including logo creation and menu design
   <img src="assets/logo.png" width="250"/>
 </p>
 ## Menu 
-[View full menu (PDF)] (assetsmenu.pdf)
+[View full menu (PDF)] (assets/menu.pdf)
